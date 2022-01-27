@@ -65,10 +65,10 @@ Veio pegar alguma resolução? Neco vai ficar de coração partido se souber rsr
 <li>9
 <img src="img\9.jpg" class="img"></a>
 
-<li><h2>10-1</h2>
+<li>10-1
 <img src="img\10-1.jpg" class="img"></a>
 
-<li><h2>10-2</h2>
+<li>10-2
 <img src="img\10-2.jpg" class="img"></a>
 
 <li>11
