@@ -5,11 +5,11 @@ Oi bixo 👁️
 Veio pegar alguma resolução? Neco vai ficar de coração partido se souber rsrsrs💔
 >  O intuito desse commit é deixar registrado a resolução de todos os exercícios da disciplina de "Algoritmo e Lógica de programação" do primeiro ano da ETE FMC.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Arduino-ETE-FMC-Resolucao?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Arduino-ETE-FMC-Resolucao?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/KauaMB2/Arduino-ETE-FMC-Resolucao?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Arduino-ETE-FMC-Resolucao?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Arduino-ETE-FMC-Resolucao?style=for-the-badge)
 <hr>
 
 ## Circuito usado
