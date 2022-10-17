@@ -1,6 +1,6 @@
 # Arduino, ETE FMC - RESOLUÇÃO
 
-Oi bixo 👁️
+Oi, bixo 👁️
 
 Veio pegar alguma resolução? Neco vai ficar de coração partido se souber rsrsrs💔
 >  O intuito desse commit é deixar registrado a resolução de todos os exercícios da disciplina de "Algoritmo e Lógica de programação" do primeiro ano da ETE FMC.
